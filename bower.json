@@ -1,0 +1,16 @@
+{
+  "name": "rbooks",
+  "version": "0.0.0",
+  "authors": [
+    "Kobe Subramaniam <bigwig4r@gmail.com>"
+  ],
+  "description": "A simple books rating app",
+  "license": "MIT",
+  "dependencies": {
+	"angular": "1.3.x",
+	"jquery": "~2.1.1",
+	"angular-route":"1.3.x",
+	"angular-resource": "1.3.x",
+	"angular-animate": "1.3.x"
+  }
+}
