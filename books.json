@@ -1,0 +1,28 @@
+{
+    "books": {
+        "the_beautiful_struggle": {
+            "title": "The Beautiful Struggle",
+            "author": "Ta-Nehisi Coates",
+            "blurb": "An exceptional father-son story about the reality that tests us, the myths that sustain us, and the love that saves us.",
+            "cover": "https://kinnareads.files.wordpress.com/2015/06/beautiful-struggle1.jpg?w=299&h=464"
+        },
+        "distant_view_of_a_minaret": {
+            "title": "Distant View of A Minaret",
+            "author": "Alifa Rifaat",
+            "blurb": "More convincingly than any other woman writing in Arabic today, Alifa Rifaat, an Egyptian, lifts the veil on what it means to be a woman living within a traditional Muslim society. Her writing articulates a subtle revolt against, and a sympathetic insight into, the place of women in the essentially male-dominated Islamic environment.",
+            "cover": "http://kinnareads.files.wordpress.com/2011/10/distant_view_of_a_minaret.jpg?w=723"
+        },
+        "the_beautiful_ones_are_not_yet_born":{
+            "title": "The Beautiful Ones Are Not Yet Born",
+            "author": "Ayi Kwei Armah",
+            "blurb": "This novel is a treatment of the theme of corruption wrought by poverty. It is the story of an upright man resisting the temptations of easy bribes and easy satisfactions and winning for his honesty nothing but scorn even from those he loves.",
+            "cover": "https://books.google.com.gh/books/content?id=adDP11OQ-7oC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE7327dDs3bMRrt3RRGPGwVFBd9dHQvWtzzth62bp84-9513vJ74T1-1NIj7cxczrqZDW9GQbSsc8WWMe3joIOuXRI2DBCsV5czC4d5AGC75oGO2n6wWrUwgtrTxoywXKg3G2knYn"
+        },
+        "bom_boy":{
+            "title": "Bom Boy",
+            "author": "Yewande  Omotoso",
+            "blurb": "Leke is a troubled young man living in the suburbs of Cape Town. He develops strange habits of stalking people, stealing small objects and going from doctor to doctor in search of companionship rather than cure. Through a series of letters written to him by his Nigerian father whom he has never met, Leke learns about a family curse; a curse which his father had unsuccessfully tried to remove. BOM BOY is a well-crafted, and complex narrative written with a sensitive understanding of both the smallness and magnitude of a single life.",
+            "cover": "http://kinnareads.files.wordpress.com/2013/08/51cubmeen0l.jpg?w=249&h=350"
+        }
+    }
+}
