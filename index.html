@@ -49,32 +49,22 @@
       </section>
       
       <div class="books-section">
-          <ul style="list-style:none;">
-              <li class="row" ng-repeat="book in books">
-                  <div class="two-thirds column">
-                      <img class="four columns" ng-src="{{book.cover}}" alt="{{book.title}}">
-                      <div class="eight columns">
-                          <h4 class="docs-header">{{book.title}}</h4>
-                          <h6>By: {{book.author}}</h6>
-                          <p>{{book.blurb}}</p>
-                          <form ng-submit="addComment()">
-                              <textarea class="eight columns" ng-model="newCommentText" placeholder="Comment here ..."></textarea>
-                              <button type="submit" class="button-primary">Add</button>
-                          </form>
-                      </div>
+          <div class="row" ng-repeat="book in books" style="margin-bottom: 4.5rem;">
+              <div class="two-thirds column">
+                  <img class="four columns" ng-src="{{book.cover}}" alt="{{book.title}}">
+                  <div class="eight columns">
+                      <h4 class="docs-header">{{book.title}}</h4>
+                      <h6>By: {{book.author}}</h6>
+                      <p>{{book.blurb}}</p>
                   </div>
-                  <div class="one-third column">
-                      <ul style="list-style:none;">
-                          <li ng-repeat="comment in comments">
-                              <input ng-model="comment.text">
-                              <button ng-click="comments.$remove(comment)">Delete</button>
-                          </li>
-                      </ul>
-                  </div>
-                  <hr/>
-              </li>
-          </ul>
+              </div>
+              <div class="one-third column"></div>
+          </div>
       </div>
+      <section class="footer">
+          <hr/>
+          <p>&copy; rBooks</p>
+      </section>
   </div>
 
 <!-- End Document
